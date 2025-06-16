@@ -74,6 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # My lgnore
-dreamguard/Binaries/*
-dreamguard/Intermediate/*
-dreamguard/Saved/*
+/dreamguard/Binaries/*
+/dreamguard/Intermediate/*
+/dreamguard/Saved/*
